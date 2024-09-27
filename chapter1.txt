@@ -1,0 +1,1 @@
+Hii we have to add the file in staging area which is intermediate area use command ===> git add
